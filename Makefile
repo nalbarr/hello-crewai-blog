@@ -1,7 +1,6 @@
 help:
-		@echo make run
-		@echo make clean
-
+	@echo make run
+	@echo make clean
 
 run:
 	uv run main.py
